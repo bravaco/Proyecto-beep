@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Projecto-IO")]
+[assembly: AssemblyTitle("pro-io")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Projecto-IO")]
+[assembly: AssemblyProduct("pro-io")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("9289f691-be7c-4c6a-b3fc-0e6d4df10d15")]
+[assembly: Guid("f687d0a1-e05c-4385-9763-0d1e16647049")]
 
 // Version information for an assembly consists of the following four values:
 //
